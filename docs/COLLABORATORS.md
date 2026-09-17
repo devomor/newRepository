@@ -7,3 +7,5 @@ Thanks to contributors who help improve this starter.
 
 
 - Pair Extraordinaire unlock attempt with verified noreply email.
+
+- Collaborator: [@helloarot-collab](https://github.com/helloarot-collab)
